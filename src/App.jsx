@@ -11,7 +11,7 @@ function App() {
             <nav className="navbar bg-dark">
                 <div className="container-fluid">
                     <span className="appName">
-                        React User Authentication</span>
+                        React User Authentication...</span>
                 </div>
             </nav>
             <LoginButton />
